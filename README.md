@@ -37,4 +37,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 ### VERCEL URL
-[food-fusion-9et5x63tg-manojbmgr-gmailcoms-projects.vercel.app](food-fusion-9et5x63tg-manojbmgr-gmailcoms-projects.vercel.app)
+[https://food-fusion-9et5x63tg-manojbmgr-gmailcoms-projects.vercel.app](https://food-fusion-9et5x63tg-manojbmgr-gmailcoms-projects.vercel.app)
